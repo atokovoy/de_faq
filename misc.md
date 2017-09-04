@@ -1,6 +1,8 @@
 # Разное
 
 * Сервис, который облегчает расторжение договоров: https://www.aboalarm.de
+* Расторгнуть договор с Vodafone:
+https://www.vodafone.de/hilfe/vertrag/vertrag-laufzeit.html#wie-kuendige-ich-meinen-vertrag
 * Набор интерактивных карт Берлина от Morgenpost: http://bit.ly/berlin-interactive-map
 
 ## Скачивание фильмов / музыки 
@@ -17,6 +19,7 @@
 - http://hidemyass.com/
 - http://vpngate.net - бесплатный каталог VPN по всему миру (не все стабильные)
 - http://prosto.net.ua - гигабитный VPN в Украину за $5 в мес
+- https://zenmate.com/ - есть бесплатный план (а также дешево стоит премиум 23+ страны)
 
 ### Спец. решения для торрентов
 - https://bitport.io/ - юзабельно и бесплатно с массой ограничений, но доплатить стоит как минимум за HTTPS
